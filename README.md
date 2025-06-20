@@ -1,10 +1,9 @@
 # 🧙 Artesano de Lua para World of Warcraft  
 
-`local yo = { especialidad = "Sistemas personalizados", pasión = "Scripting Lua" }`  
 
 ## ✨ **Mis Creaciones Mágicas**  
-```lua  
-function MisProyectos()  
+
+function MisProyectos 
     return  
         NPCs = "IA inteligente con diálogos dinámicos",  
         AntiTrampas = "Sistema Guardián Arthas",  
