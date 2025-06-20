@@ -5,12 +5,12 @@
 ## ✨ **Mis Creaciones Mágicas**  
 ```lua  
 function MisProyectos()  
-    return {  
+    return  
         NPCs = "IA inteligente con diálogos dinámicos",  
         AntiTrampas = "Sistema Guardián Arthas",  
         AddOns = "Interfaces y mejoras de juego",  
         Misiones = "Historias épicas con condiciones especiales"  
-    }  
+     
 end
 https://img.shields.io/badge/Lua-Experto-%25232C2D72?logo=lua
 https://img.shields.io/badge/WoW_API-Dominado-%2523E68A15
