@@ -6,37 +6,9 @@
 function MisProyectos 
     return  
         NPCs = "IA inteligente con diálogos dinámicos",  
-        AntiTrampas = "Sistema Guardián Arthas",  
-        AddOns = "Interfaces y mejoras de juego",  
-        Misiones = "Historias épicas con condiciones especiales"  
-     
-end
-https://img.shields.io/badge/Lua-Experto-%25232C2D72?logo=lua
-https://img.shields.io/badge/WoW_API-Dominado-%2523E68A15
-https://img.shields.io/badge/AzerothCore-Colaborador-%2523FF4500
+        AntiTrampas = "Sistema Guardián de archas y muchísimos lua 
 
 
 "No solo escribo código - doy vida a Azeroth a través de scripts Lua.
 Cada NPC, cada regla anti-trampas, cada sistema personalizado
-es un hechizo cuidadosamente creado para hacer magia en los servidores."
-
-https://img.shields.io/badge/Chatear_en_Discord-%25237289DA?logo=discord
-https://img.shields.io/badge/Correo-%2523D44638?logo=gmail
-https://img.shields.io/badge/World_of_Warcraft-Scripting_Lua-%252342A5DC?logo=worldofwarcraft
-
-"Lo que mis scripts ordenan, el servidor obedece."
-
-### 🔥 **Características Clave**  
-1. **Tema inmersivo de WoW** - Diseño perfecto para scripting  
-2. **Código interactivo** - Bloques Lua editables  
-3. **Insignias visuales** - Tecnologías destacadas  
-4. **Llamadas a acción claras** - Opciones de contacto profesional  
-
-### Decmi  
-   - `no me acuerdo` con tu Discord  
-   - `yanielaguilar4@gmail.com ` con tu correo  
-4. ¡Los cambios aparecerán automáticamente en tu perfil!  
-
-**Consejo:** Añade capturas de tus proyectos en una carpeta `/assets` para hacerlo más visual.  
-
-¿Quieres que añada una sección de "Proyectos Recientes" o estadísticas? 😊
+es un hechizo cuidadosamente creado para hacer magia en los servidores 😊
