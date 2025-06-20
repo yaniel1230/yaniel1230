@@ -4,11 +4,8 @@
 ---
 
 ### 🚀 About Me  
-💡 Over **12 years of experience** in web and software development.  
-⚡ Specialized in **PHP, JavaScript, and Python**, with a focus on efficient and innovative solutions.  
-🔍 Passionate about **automation, cybersecurity, automation and machine learning**.  
-🎓 Freelance Developer and teacher at **UNGS**.  
-📍 San Miguel, Buenos Aires, Argentina.  
+💡 Over **1 years of experience**.  
+⚡ Specialized in **PHP, Lua  
 
 
 
@@ -21,7 +18,6 @@
 
 #### 🗄️ **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🖥️ **Infrastructure 
 Lua
@@ -32,7 +28,7 @@ Lua
 
 #### 🗣️ **Spoken Languages**  
 🇪🇸 **Spanish** (Native)  
-🇬🇧 **English** (Intermediate - B1)  
+🇬🇧 **English** (Intermediate - B1) 
 
 #### 💻 **Programming Languages**  
 🖥️ PHP,Lua
@@ -62,8 +58,6 @@ Lua
 
 ### 🎮 **If you like, join me here too!**
 
-<p>
-  <img src="https://card.exophase.com/2/0/287537.png?1741105562" alt="Gaming Profile" style="width: 55%;">
 </p>
 
 ---
