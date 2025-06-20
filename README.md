@@ -15,13 +15,6 @@ https://img.shields.io/badge/Lua-Experto-%25232C2D72?logo=lua
 https://img.shields.io/badge/WoW_API-Dominado-%2523E68A15
 https://img.shields.io/badge/AzerothCore-Colaborador-%2523FF4500
 
--- Sistema de vigilancia GM  
-function Arthas.Vigilar()  
-    if DetectarTramposo() then  
-        LanzarHechizo("Justicia_Divina")  
-        Registro("Tramposo eliminado a las "..ObtenerHora())  
-    end  
-end
 
 "No solo escribo código - doy vida a Azeroth a través de scripts Lua.
 Cada NPC, cada regla anti-trampas, cada sistema personalizado
@@ -39,12 +32,9 @@ https://img.shields.io/badge/World_of_Warcraft-Scripting_Lua-%252342A5DC?logo=wo
 3. **Insignias visuales** - Tecnologías destacadas  
 4. **Llamadas a acción claras** - Opciones de contacto profesional  
 
-### ⚙️ **Cómo Usarlo**  
-1. Crea un archivo `README.md` en tu repositorio de perfil  
-2. Copia todo este texto  
-3. Personaliza:  
-   - `tu-enlace` con tu Discord  
-   - `tu@email.com` con tu correo  
+### Decmi  
+   - `no me acuerdo` con tu Discord  
+   - `yanielaguilar4@gmail.com ` con tu correo  
 4. ¡Los cambios aparecerán automáticamente en tu perfil!  
 
 **Consejo:** Añade capturas de tus proyectos en una carpeta `/assets` para hacerlo más visual.  
