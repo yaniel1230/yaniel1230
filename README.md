@@ -1,5 +1,5 @@
 <h1 align="center">🌿🌿🌿 Hi, I'm Yaniel 🌿🌿🌿</h1>
-<h3 align="center">Full Stack Developer | Manager | Researcher | Teacher</h3>
+<h3 align="center">Full Lua </h3>
 
 ---
 
