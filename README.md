@@ -54,9 +54,6 @@ Lua
 
 📩 **Email:** yanielaguilar4@gmail.com 
 
----
-
-### 🎮 **If you like, join me here too!**
 
 </p>
 
